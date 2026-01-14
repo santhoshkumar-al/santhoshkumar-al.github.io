@@ -1,5 +1,5 @@
 
-# Santhosh Kumar Portfolio — Black & Purple Theme (v2)
+# Santhosh Kumar Portfolio
 
 Updated portfolio with:
 - Black & purple styling
